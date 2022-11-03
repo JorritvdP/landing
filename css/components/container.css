@@ -1,0 +1,13 @@
+.container{
+  width: 800px;
+  margin: 0 auto;
+  color: whitesmoke;
+  display: block;
+}
+
+.container h2{
+  color: rgb(27, 75, 27);
+  font-size: 30px;
+  padding: 15px;
+  text-align: center;
+}
